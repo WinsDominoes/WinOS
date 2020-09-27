@@ -21,7 +21,7 @@ imgfile.sh content
 cd disk_images
 dd if=mikeos.flp of=/dev/<your-device>
 ```
-Change "<your-device>" to your own device name like dev/sdb
+Change <your-device> to your own device name like dev/sdb
 Again, use it at your own risk. 
   
 # Credits
